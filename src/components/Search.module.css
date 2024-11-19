@@ -1,7 +1,8 @@
 .searchContainer{
     margin: 20px auto;
-    width: 300px;
+    width: 500px;
     position: relative;
+    
 
 }
 .input{
@@ -12,4 +13,5 @@
     outline: none;
     font-size: 16px;
     color: #393e46;
+    border-radius: 10px;
 }

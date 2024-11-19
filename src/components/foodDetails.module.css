@@ -1,11 +1,12 @@
 .recipeCard{
+    background-color: white;
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    box-shadow: 0 4px 8px rgba(226, 144, 30, 0.919);
+    /* box-shadow: 0 4px 8px rgba(226, 144, 30, 0.919); */
     border-radius: 10px;
     font-family: polysans, sans-serif;
-    color: #393e46;
+    color: #081510;
 }
 .recipeName{
     font-size: 24px;
@@ -22,11 +23,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
 }
 .recipeInstructions{
     padding: 0px;
     border-radius: 5px;
-    color: #adaab0;
+    color: white;
 
 }
 .recipeInstructions ol{

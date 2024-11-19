@@ -1,8 +1,8 @@
 .itemContainer{
-    /* background-color: rgba(221, 133, 11, 0.919); */
+    background-color: white;
     max-width: 80%;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(221, 133, 11, 0.919);
+    /* box-shadow: 0 4px 6px rgba(221, 133, 11, 0.919); */
     margin: 20px;
     overflow: hidden;
     font-family: polysans, sans-serif;
@@ -16,15 +16,17 @@
     align-items: center;
     max-width: 100%;
     height: auto;
+    
 }
 .itemContent{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    
 }
 .itemName{
     font-size: 1em;
     font-weight: 600;
-    color: #393e46;
+    color: #8BC34A;
 }
 .itemButton{
     background-color: #29bb89;
